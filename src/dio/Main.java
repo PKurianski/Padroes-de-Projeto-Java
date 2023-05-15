@@ -1,3 +1,5 @@
+package dio;
+
 import dio.facade.Facade;
 import dio.singleton.Eager;
 import dio.singleton.Lazy;
